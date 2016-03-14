@@ -4,7 +4,6 @@ import PlayerSuite as ps
 import linksFilesCreds as lfc
 from Projection import Projection
 
-
 def getStatsForDate(game_date):
     """
     Optional game date in YYYY-MM-DD format
